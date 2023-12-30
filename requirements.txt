@@ -1,0 +1,7 @@
+audiorecorder==0.1
+gTTS==2.5.0
+langchain==0.0.353
+openai==1.6.1
+pyttsx3==2.90
+streamlit==1.29.0
+streamlit_chat==0.1.1
